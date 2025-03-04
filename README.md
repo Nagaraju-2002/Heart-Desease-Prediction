@@ -1,4 +1,4 @@
-# Heart Disease Prediction Using Machine Learning**
+# Heart Disease Prediction Using Machine Learning
 
 A  machine learning application designed to predict heart disease based on medical data. The system utilizes various classification algorithms to analyze patient data and determine the likelihood of heart disease.
 
